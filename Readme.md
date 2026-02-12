@@ -32,16 +32,6 @@ Legal intake · Financial advisory · Patient onboarding · Enterprise support �
 
 `42` engine modules · `899` tests passing · `86%` token reduction · `48%` of inputs routed without an API call · `11` vertical packs
 
-### Documentation
-
-| Guide | Description |
-|-------|-------------|
-| [Getting Started](https://github.com/tmos13/docs/blob/main/getting-started.md) | Set up your first pack and deploy in 15 minutes |
-| [SDK Reference](https://github.com/tmos13/docs/blob/main/sdk-reference.md) | TypeScript client library, React hooks, type definitions |
-| [Pack Development](https://github.com/tmos13/docs/blob/main/pack-development.md) | Write protocols, configure manifests, define commands |
-| [API Reference](https://github.com/tmos13/docs/blob/main/api-reference.md) | REST endpoints, WebSocket, MCP tools |
-| [Architecture Guide](https://github.com/tmos13/docs/blob/main/architecture.md) | Engine internals, design principles, data flow |
-
 ### Links
 
 <a href="https://tmos13.ai">tmos13.ai</a> · <a href="https://tmos13.ai/demo">Live Demo</a> · <a href="mailto:hello@tmos13.ai">hello@tmos13.ai</a>
