@@ -17,10 +17,10 @@ TMOS13 is a runtime engine for stateful AI experiences. Define behavior in plain
 | [**Pack Development**](pack-development.md) | Available | Write protocols, configure manifests, define commands |
 | [**API Reference**](api-reference.md) | Available | REST endpoints, WebSocket, MCP tools |
 | [**Architecture Guide**](architecture.md) | Available | Engine internals, design principles, data flow |
-| [**Deployment Guide**](deployment.md) | Coming Soon | Railway, Vercel, Docker, self-hosted options |
-| [**Security & Compliance**](security-compliance.md) | Coming Soon | Data handling, encryption, audit logging |
-| [**Migration Guide**](migration.md) | Coming Soon | Moving from custom wrappers to TMOS13 |
-| [**Pipeline & Integrations**](pipeline-integrations.md) | Coming Soon | MCP tools, connectors, scheduled jobs, notifications |
+| [**Deployment Guide**](deployment.md) | Available | Railway, Vercel, Docker, self-hosted options |
+| [**Security & Compliance**](security-compliance.md) | Available | Data handling, encryption, audit logging |
+| [**Migration Guide**](migration.md) | Available | Moving from custom wrappers to TMOS13 |
+| [**Pipeline & Integrations**](pipeline-integrations.md) | Available | MCP tools, connectors, scheduled jobs, notifications |
 
 ---
 
