@@ -1,51 +1,56 @@
-<h1 align="center">TMOS13</h1>
+# TMOS13 Documentation
 
-<p align="center"><strong>Runtime for Stateful AI</strong></p>
+**Everything you need to build with TMOS13.**
 
-<p align="center">Define AI behavior in plain text. Configure with a manifest. Deploy.</p>
+TMOS13 is a runtime engine for stateful AI experiences. Define behavior in plain text protocols. Configure with a manifest. Deploy.
 
-<p align="center">
-  <a href="https://tmos13.ai">tmos13.ai</a> · <a href="https://tmos13.ai/demo">Try the Demo</a> · <a href="mailto:hello@tmos13.ai">hello@tmos13.ai</a>
-</p>
+[tmos13.ai](https://tmos13.ai) · [Try the Demo](https://tmos13.ai/demo) · hello@tmos13.ai
 
 ---
 
-### What we build
+## Guides
 
-TMOS13 is a modular runtime engine for AI-powered conversational experiences. Instead of coding LLM behavior, you define it in declarative protocol files — plain text instructions that the engine assembles, routes, and manages at runtime.
+| Guide | Status | Description |
+|-------|--------|-------------|
+| [**Getting Started**](getting-started.md) | Available | Set up your first pack and deploy in 15 minutes |
+| [**SDK Reference**](sdk-reference.md) | Available | TypeScript client library, React hooks, type definitions |
+| [**Pack Development**](pack-development.md) | Available | Write protocols, configure manifests, define commands |
+| [**API Reference**](api-reference.md) | Available | REST endpoints, WebSocket, MCP tools |
+| [**Architecture Guide**](architecture.md) | Available | Engine internals, design principles, data flow |
+| [**Deployment Guide**](deployment.md) | Coming Soon | Railway, Vercel, Docker, self-hosted options |
+| [**Security & Compliance**](security-compliance.md) | Coming Soon | Data handling, encryption, audit logging |
+| [**Migration Guide**](migration.md) | Coming Soon | Moving from custom wrappers to TMOS13 |
+| [**Pipeline & Integrations**](pipeline-integrations.md) | Coming Soon | MCP tools, connectors, scheduled jobs, notifications |
+
+---
+
+## Quick Links
+
+**Get running fast:**
+- [Quick Start](getting-started.md#quick-start) — From zero to running engine in 5 minutes
+- [Create Your First Pack](getting-started.md#create-your-first-pack) — Build a support agent
+- [Connect a Frontend](getting-started.md#connect-a-frontend) — SDK setup in 3 lines
+
+**Build your vertical:**
+- [Manifest Schema](pack-development.md#manifest-schema) — Pack configuration reference
+- [Protocol Files](pack-development.md#protocol-files) — How to write AI behavior
+- [State Signals](pack-development.md#state-signals) — Module-to-engine communication
+
+**Integrate:**
+- [TMOS13Client](sdk-reference.md#tmos13client) — Direct API access
+- [React Hooks](sdk-reference.md#react-hooks) — State-managed UI hooks
+- [REST Endpoints](api-reference.md#core) — Full HTTP API
+
+---
+
+## About TMOS13
+
+TMOS13 is a modular runtime for AI-powered conversational experiences. Instead of coding LLM behavior, you define it in declarative protocol files — plain text instructions that the engine assembles, routes, and manages at runtime.
 
 One engine. Any vertical. Your brand.
 
-### How it works
-
-**You write protocols** — plain text files that describe how the AI should behave. An intake flow. A support agent. An onboarding experience. Whatever your product needs.
-
-**You configure a manifest** — a single JSON file that defines commands, routing patterns, features, and theme. Swap the manifest, change the product.
-
-**The engine handles everything else** — state management, deterministic routing, prompt assembly, session persistence, cross-session memory, token optimization, and multi-channel delivery.
-
-### Built for every vertical
-
-Legal intake · Financial advisory · Patient onboarding · Enterprise support · Sales enablement · Education · Customer service — same engine, different protocol.
-
-### By the numbers
-
-`42` engine modules · `899` tests passing · `86%` token reduction · `48%` of inputs routed without an API call · `11` vertical packs
-
-### Documentation
-
-| Guide | Description |
-|-------|-------------|
-| [Getting Started](https://github.com/tmos13/docs/blob/main/getting-started.md) | Set up your first pack and deploy in 15 minutes |
-| [SDK Reference](https://github.com/tmos13/docs/blob/main/sdk-reference.md) | TypeScript client library, React hooks, type definitions |
-| [Pack Development](https://github.com/tmos13/docs/blob/main/pack-development.md) | Write protocols, configure manifests, define commands |
-| [API Reference](https://github.com/tmos13/docs/blob/main/api-reference.md) | REST endpoints, WebSocket, MCP tools |
-| [Architecture Guide](https://github.com/tmos13/docs/blob/main/architecture.md) | Engine internals, design principles, data flow |
-
-### Links
-
-<a href="https://tmos13.ai">tmos13.ai</a> · <a href="https://tmos13.ai/demo">Live Demo</a> · <a href="mailto:hello@tmos13.ai">hello@tmos13.ai</a>
+**Built for:** Legal intake · Financial advisory · Patient onboarding · Enterprise support · Sales enablement · Education · Customer service
 
 ---
 
-<p align="center"><strong>TMOS13, LLC</strong> · Jersey City, NJ</p>
+TMOS13, LLC · Jersey City, NJ · [tmos13.ai](https://tmos13.ai)
