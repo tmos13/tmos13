@@ -1,0 +1,13 @@
+pack_id: the_oracle
+name: The Oracle
+category: experiences
+status: active
+version: 1.0.0
+estimated_turns: 10-14
+description: >
+  Inverse of the enlightened duck. You become the oracle.
+  The pack asks you three questions — real ones, without easy answers.
+  Produces a statement of what you currently believe.
+author: TMOS13, LLC
+deliverable: oracle_statement
+tags: [experiences, philosophy, reflection, creative, personal]
