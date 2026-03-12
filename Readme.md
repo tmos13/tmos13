@@ -41,7 +41,7 @@ Swap the pack, change the product. The engine never changes.
 ### By the numbers
 
 `138` engine modules · `3,245` tests passing · `878` commits · `27` active packs
-`382` packs in library · `9` delivery channels · `13` MCP tools · `19` provisional patents filed
+`382` packs in library · `9` delivery channels · `13` MCP tools · `2` provisional patents filed
 
 ---
 
