@@ -1,0 +1,13 @@
+pack_id: cold_case
+name: Cold Case
+category: games
+status: active
+version: 1.0.0
+estimated_turns: 14-24
+description: >
+  A noir detective experience. You are given a cold case file.
+  You interview witnesses, follow leads, and solve it — or you don't.
+  Produces a case closure report as its deliverable.
+author: TMOS13, LLC
+deliverable: case_closure_report
+tags: [games, noir, detective, mystery, narrative]
