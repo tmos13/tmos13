@@ -1,0 +1,13 @@
+pack_id: investor_prep
+name: Investor Prep
+category: finance
+status: active
+version: 1.0.0
+estimated_turns: 12-20
+description: >
+  Pitch rehearsal, objection drilling, and term sheet review.
+  Pressure-test your narrative before the real meeting.
+  Produces a structured prep brief as its deliverable.
+author: TMOS13, LLC
+deliverable: investor_prep_brief
+tags: [finance, fundraising, founders, pitch, venture]
