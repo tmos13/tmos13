@@ -1,0 +1,13 @@
+pack_id: founder_debrief
+name: Founder Debrief
+category: personal
+status: active
+version: 1.0.0
+estimated_turns: 8-12
+description: >
+  End-of-week structured reflection for founders and solo operators.
+  What shipped, what didn't, what you learned, what you're carrying forward.
+  Vaulted over time — organizational memory built from the founder's own mind.
+author: TMOS13, LLC
+deliverable: weekly_debrief
+tags: [personal, founders, reflection, vault, memory]
