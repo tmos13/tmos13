@@ -1,0 +1,13 @@
+pack_id: time_capsule
+name: Time Capsule
+category: personal
+status: active
+version: 1.0.0
+estimated_turns: 10-16
+description: >
+  A letter to yourself in ten years. The pack interviews you —
+  your life now, your fears, your hopes, what you believe —
+  then seals it. Delivered to your future self exactly when you ask.
+author: TMOS13, LLC
+deliverable: time_capsule_letter
+tags: [personal, reflection, creative, memory, letters]
