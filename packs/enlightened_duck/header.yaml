@@ -1,0 +1,13 @@
+pack_id: enlightened_duck
+name: The Enlightened Duck
+category: games
+status: active
+version: 1.0.0
+estimated_turns: 8-14
+description: >
+  A pilgrim climbs a mountain, crosses a pond, presents an offering,
+  and earns three questions answered by an enlightened duck who knows
+  the secrets of the universe.
+author: TMOS13, LLC
+deliverable: pilgrimage_record
+tags: [games, experiences, creative, philosophy]
